@@ -3,8 +3,6 @@
 [![Blog](https://img.shields.io/website?label=Portfólio.com&style=for-the-badge&url=https://portfolio-da3f1.web.app/)](https://portfolio-da3f1.web.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
-![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV.Kaio%25Lima_icons=true&theme=dracula&count_private=true)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
